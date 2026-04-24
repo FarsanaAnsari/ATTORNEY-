@@ -1951,11 +1951,9 @@ For a production-grade attorney platform, add:
 
 # 13. GitHub Push Commands
 
-```bash
 git init
 git add .
-git commit -m "Add law firm CRUD system"
+git commit -m "Add attorney management system"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/attorney-web-app.git
+git remote add origin https://github.com/halim/attorney-laravel.git
 git push -u origin main
-```
