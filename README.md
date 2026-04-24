@@ -1,4 +1,4 @@
-# Laravel Law Firm CRUD Scaffold
+# Laravel 
 
 This scaffold targets a realistic law-firm case-management system using Laravel, PHP, MySQL, Blade, and resource controllers.
 
