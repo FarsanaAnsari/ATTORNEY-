@@ -1,6 +1,6 @@
 # Laravel 
 
-This scaffold targets a realistic law-firm case-management system using Laravel, PHP, MySQL, Blade, and resource controllers.
+Attorney management system using Laravel, PHP, MySQL, Blade, and resource controllers.
 
 ## 1. Database Design
 
